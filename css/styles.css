@@ -1,15 +1,16 @@
 
 #title{
-	font-family: 'Lucida Handwriting', cursive; 
-	Color: red;
+font-family: 'Lucida Handwriting', cursive;
+Color: red;
 }
 .dummytext{
-	font-family: 'Courier New, Monospace', "Lucida","Lucida";
-	background-color: lightblue;
+font-family: 'Arial','Courier New, Monospace', "Lucida","Lucida";
+background-color: lightblue;
 }
 .introduction{
-	border: ridge;
-	border-color: plum
-	padding:21px;
-	background-color: bisque;
+border: ridge;
+border-color: plum;
+padding:21px;
+background-color: bisque;
+color:red;
 }

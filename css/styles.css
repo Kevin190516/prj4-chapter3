@@ -14,8 +14,6 @@ padding:21px;
 background-color: bisque;
 color:red;
 }
-<style>
-div {
-  background-image: url("background.png");
+.html{
+	background-image: ("background.png")
 }
-</style>

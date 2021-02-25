@@ -14,3 +14,6 @@ padding:21px;
 background-color: bisque;
 color:red;
 }
+.background{
+	background-image: url("background.jpg");
+}

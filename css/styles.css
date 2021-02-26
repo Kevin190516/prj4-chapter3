@@ -1,9 +1,4 @@
- {
-  margin: 0;
-  padding: 0; 
-  border: 0; 
-  font-size: 100%; 
-  }
+* {margin: 0; padding: 0; border: 0; font-size: 100%; }
 #title{
 font-family: 'Lucida Handwriting', cursive;
 Color: red;
@@ -36,6 +31,6 @@ body{
 	padding: 20px;
 }
 img{ 
-width:200px;
-height:500px; 
+width:100px;
+height:200px; 
 }

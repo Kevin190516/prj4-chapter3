@@ -1,7 +1,21 @@
-
+ {
+  margin: 0;
+  padding: 0; 
+  border: 0; 
+  font-size: 100%; 
+  }
 #title{
 font-family: 'Lucida Handwriting', cursive;
 Color: red;
+}
+.top{
+	background-color: orange; 
+	background-size:cover;
+	font-family: 'Akaya Telivigala', cursive;
+	border: solid white;
+	text-align: center;
+	margin-bottom:10px;
+	padding:10px;
 }
 .dummytext{
 font-family: 'Arial','Courier New, Monospace', "Lucida","Lucida";

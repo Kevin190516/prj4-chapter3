@@ -14,6 +14,13 @@ padding:21px;
 background-color: bisque;
 color:red;
 }
-.html{
-	background-image: ("images/background.png")
+.head{
+	background-image: url("../images/background.png"); 
+	color: white;
+	text-align: center;
+	padding: 20px;
+}
+.img { 
+width=200px;
+height=100px; 
 }

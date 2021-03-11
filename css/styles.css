@@ -13,6 +13,9 @@ Color: red;
 	margin-bottom:10px;
 	padding:10px;
 }
+nav {
+  display: block;
+}
 header {
   display: block;
 }

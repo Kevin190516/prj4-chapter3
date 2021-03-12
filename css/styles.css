@@ -17,9 +17,11 @@ Color: red;
 }
 nav {
   display: block;
+  text-align: center;
 }
-header {
-  display: block;
+section {
+  display: inline-block;
+  text-align: center;
 }
 .dummytext{
 font-family: 'Arial','Courier New, Monospace', "Lucida","Lucida";
